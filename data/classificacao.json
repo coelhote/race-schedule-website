@@ -1,0 +1,51 @@
+{
+    "data": 
+    {
+        "classificacao": [
+            {
+                "name": "Fórmula 1",
+                "info": []
+            },
+            {
+                "name": "Fórmula 2",
+                "info": []
+            },
+            {
+                "name": "Fórmula 3",
+                "info": []
+            },
+            {
+                "name": "Moto GP",
+                "info": []
+            },
+            {
+                "name": "Moto2",
+                "info": []
+            },
+            {
+                "name": "Moto3",
+                "info": []
+            },
+            {
+                "name": "Stock car",
+                "info": []
+            },
+            {
+                "name": "Stock Light",
+                "info": []
+            },
+            {
+                "name": "Copa Truck",
+                "info": []
+            },
+            {
+                "name": "Super Truck",
+                "info": []
+            },
+            {
+                "name": "Fórmula Truck",
+                "info": []
+            }
+        ]
+    }
+}
